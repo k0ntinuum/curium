@@ -1,0 +1,9 @@
+n  = 9
+b = 3
+t = 100
+r = 500
+#alph = "O|@*&"
+# alph = "O|2"
+#alph = "O|23456789"
+alph = "_ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+#alph = 
